@@ -1,0 +1,4 @@
+gurobipy==9.5.1
+networkx==2.8
+numpy==1.17.4
+pynauty==1.0.2

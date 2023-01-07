@@ -1,0 +1,7 @@
+.git/
+Precomputation/
+Output/
+SlimFly/
+__pycache__/
+
+*.py
