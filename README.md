@@ -1,7 +1,7 @@
 # DCN Oblivious Routing
 
 Designing Optimal Compact Oblivious Routing for Datacenter Networks in Polynomial Time (INFOCOM 2023) <br>
-[![DCN Oblivious Routing](https://i.imgur.com/s731ITV.jpg)]() <br>
+<img src="https://i.imgur.com/s731ITV.jpg" width="900"><br>
 This work proposes a process for designing optimal oblivious routing that is programmed compactly on programmable switches. The process consists of three contributions in tandem. 
 1. We first transform a robust optimization problem for designing oblivious routing into a linear program, which is solvable in polynomial time but cannot scale for datacenter topologies. <br>
 2. We then prove that the repeated structures in a datacenter topology lead to a structured optimal solution. We
