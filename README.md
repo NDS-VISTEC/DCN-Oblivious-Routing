@@ -54,7 +54,7 @@ This software is tested with the following environment
 
 ### Download code
 ```shell
-$ git clone https://github.com/NDS-VISTEC/DCN-Oblivious-Routing
+$ git clone https://github.com/NDS-VISTEC/DCN-Oblivious-Routing.git
 ```
 
 ### Build an Docker image
